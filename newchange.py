@@ -1,1 +1,1 @@
-test git push
+print ("hello world")
